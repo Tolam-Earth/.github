@@ -13,14 +13,14 @@ body:
       description: A concise description of what you expected to happen.
       placeholder: Tell us what should happen
     validations:
-      required: false
+      required: true
   - type: textarea
     attributes:
       label: Actual Behaviour
       description: A concise description of what you're experiencing.
       placeholder: Tell us what happens instead
     validations:
-      required: false
+      required: true
   - type: textarea
     attributes:
       label: Steps To Reproduce
@@ -38,7 +38,7 @@ body:
       description: Environment information where the problem occurs.
     validations:
       required: false
-  - type: input
+  - type: textarea
     id: example
     attributes:
       label: Failing Test Cases
