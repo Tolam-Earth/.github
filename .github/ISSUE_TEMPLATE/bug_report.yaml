@@ -16,7 +16,7 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Actual Behaviour
+      label: Actual Behavior
       description: A concise description of what you're experiencing.
       placeholder: Tell us what happens instead
     validations:
