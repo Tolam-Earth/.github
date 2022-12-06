@@ -12,4 +12,6 @@ Tolam encourages engagement from the developer community so that we can realize 
 
 To explore an early demo of the marketplace and ARMM, see the instructions at https://github.com/Tolam-Earth/tolam-demo
 
+Contributors to the demo are listed in the [contributors.md](contributors.md) file.
+
 Please visit our website [Tolam.io](https://tolam.io/) for the [Privacy Policy](https://tolam.io/privacy/), [Terms](https://tolam.io/terms/), and [Community Guidelines](https://tolam.io/communityguidelines/).
