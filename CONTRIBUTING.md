@@ -4,6 +4,8 @@ Welcome, and thank you for your interest in contributing to Tolam Earth!
 
 This document is intended to provide a high-level overview of how you can be a part of creating a new kind of carbon offset marketplace.
 
+Please review the Tolam Earth [Privacy Policy](https://tolam.io/privacy/) and [Community Guidelines](https://tolam.io/communityguidelines/).
+
 ## Questions and Feedback
 
 Questions and comments are welcome.  If they pertain to the project as a whole, integration of the components, etc., please post in the [Organization Discussions](https://github.com/orgs/Tolam-Earth/discussions).  Otherwise, please post in the Discussions section of the appropriate repository.
@@ -22,7 +24,7 @@ The issue template will guide you through the information that is required.
 
 ## Contributing Fixes and Improvements
 
-If you have code to contribute to the one of the Tolam repositories, please submit a pull request.  The pull request template will indicate the information to include.  You will also have to agree to the Contributor License Agreement.  
+If you have code to contribute to the one of the Tolam repositories, please submit a pull request.  The pull request template will indicate the information to include.  You will also have to agree to the [Contributor License Agreement](https://gist.github.com/Tolam-Automation/a995e6a1f7c313d59fc760f7bc140941).  
 
 # Thank You!
 
