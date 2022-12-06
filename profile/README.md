@@ -10,8 +10,10 @@ With the price discovery and auto-purchasing mechanisms provided by the “Tolam
 
 Tolam encourages engagement from the developer community so that we can realize this vision and bring sustainability leaders and project developers into the future, together. If you wish to contribute to the development of Tolam, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
-To explore an early demo of the marketplace and ARMM, see the instructions at https://github.com/Tolam-Earth/tolam-demo
+To explore an early demo of the marketplace and ARMM, see the instructions at https://github.com/Tolam-Earth/tolam-demo.
 
 Contributors to the demo are listed in the [contributors.md](contributors.md) file.
+
+Tolam Earth's open source code is released under the license descibed in each repository. When accessing Tolam Earth's hosted marketplace through APIs, there is a specific [Tolam API License](tolam-api-license.md).
 
 Please visit our website [Tolam.io](https://tolam.io/) for the [Privacy Policy](https://tolam.io/privacy/), [Terms](https://tolam.io/terms/), and [Community Guidelines](https://tolam.io/communityguidelines/).
