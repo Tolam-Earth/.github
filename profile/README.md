@@ -10,6 +10,8 @@ With the price discovery and auto-purchasing mechanisms provided by the “Tolam
 
 Tolam encourages engagement from the developer community so that we can realize this vision and bring sustainability leaders and project developers into the future, together. If you wish to contribute to the development of Tolam, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
+Note that exchanges and the handling of personal assets and information can be regulated. Please ensure that you are following all applicable laws and regulations.
+
 To explore an early demo of the marketplace and ARMM, see the instructions at https://github.com/Tolam-Earth/tolam-demo.
 
 Contributors to the demo are listed in the [contributors.md](contributors.md) file.
